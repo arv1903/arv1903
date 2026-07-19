@@ -132,16 +132,6 @@ Working through the fundamentals — linear algebra, PyTorch, neural network arc
 
 ---
 
-### Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/xsjqmoks6x7vilb26ts8cciym">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xsjqmoks6x7vilb26ts8cciym&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=true&bar_color=3b82f6&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
 ### Connect
 
 <p>
