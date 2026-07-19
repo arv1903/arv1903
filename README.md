@@ -131,12 +131,12 @@ Working through the fundamentals — linear algebra, PyTorch, neural network arc
 
 <p>
   <a href="https://www.linkedin.com/in/marvinalvianus-rainhard-195171340">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marvin07ar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=Email&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/user/xsjqmoks6x7vilb26ts8cciym">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=Spotify&color=1DB954&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
