@@ -16,7 +16,7 @@ I build full-stack applications and am increasingly focused on artificial intell
 
 <p align="center">
   <a href="https://github.com/arv1903/Root">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arv1903&repo=Root&theme=github_dark&hide_border=true&description_lines_count=3" alt="Root Repo Card" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arv1903&repo=Root&theme=github_dark&hide_border=true&description_lines_count=3" alt="Root Repo Card" />
   </a>
 </p>
 
@@ -125,12 +125,24 @@ Working through the fundamentals — linear algebra, PyTorch, neural network arc
 ### Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arv1903&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arv1903&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide_rank=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arv1903&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arv1903&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide_rank=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arv1903&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <img src="assets/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
+</p>
+
+---
+
+### 💡 Dev Quote / Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bg_color=0d1117&color=c9d1d9&q_color=58a6ff" alt="Random Dev Joke" />
 </p>
 
 ---
