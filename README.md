@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+full-stack+applications;Learning+AI+%26+Machine+Learning;Exploring+Rust+%26+systems+programming;Competitive+programmer" alt="Typing SVG" />
 </p>
 
-**Computer Science at BINUS University** | **BCA Scholarship (PPTI) 2025 Awardee**
+**A normal student**
 
 I tinker with code, build cool stuff, and pretend I know what I'm doing. Mostly full-stack apps, but lately I've been poking at AI/ML and systems programming because why not. React dashboards, Python backends, Android apps — if it's free and useful, I'm probably hacking on it.
 
@@ -51,7 +51,6 @@ I tinker with code, build cool stuff, and pretend I know what I'm doing. Mostly 
 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 **Data, ML & Infrastructure**
@@ -84,22 +83,6 @@ I tinker with code, build cool stuff, and pretend I know what I'm doing. Mostly 
 </p>
 
 Currently nerding out over linear algebra, PyTorch, and neural networks. Also trying to tame Rust — the ownership model keeps me humble.
-
----
-
-### Achievements
-
-**Competitions** (aka sleep-deprived adventures)
-
-- 🥇 **1st Place** — BMEC 2024: Biomedical Engineering Olympiad
-- 🥉 **3rd Place** — Technology Euphoria 2023: Competitive Programming
-- 🥈 **2nd Place** — ILPC: Informatics Logical Programming Competition
-- 🏅 **Finalist (Top 10)** — KIHAJAR STEM 2024
-- 🏅 **Finalist** — Kompetisi Sains Nasional (IPS)
-
-**Programs** (aka fun side quests)
-
-- Green Youth Movement Indonesia — 2023/2024
 
 ---
 
